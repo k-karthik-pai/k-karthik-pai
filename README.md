@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Karthik 👋
 
-<!--
-**k-karthik-pai/k-karthik-pai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my GitHub profile
 
-Here are some ideas to get you started:
+I build software projects, experiment with new ideas, and learn by shipping.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My contribution journey
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k-karthik-pai/k-karthik-pai/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k-karthik-pai/k-karthik-pai/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/k-karthik-pai/k-karthik-pai/output/pacman-contribution-graph.svg">
+</picture>
+
+## Find me online
+
+- GitHub: [@k-karthik-pai](https://github.com/k-karthik-pai)
+
+Thanks for visiting my profile! ⭐
