@@ -1,3 +1,6 @@
+# Hi, I'm Karthik 👋
+
+## Pac-Man Contribution Graph
 
 <p align="center">
   <picture>

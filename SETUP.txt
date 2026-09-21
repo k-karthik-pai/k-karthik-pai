@@ -1,0 +1,20 @@
+PAC-MAN GITHUB PROFILE SETUP
+
+Repository:
+  k-karthik-pai/k-karthik-pai
+
+Files included:
+  README.md
+  .github/workflows/pacman.yml
+
+How to use:
+1. Upload these files to the root of your k-karthik-pai/k-karthik-pai repository.
+2. Keep the .github/workflows/pacman.yml path exactly as provided.
+3. Commit/push to main.
+4. Open the repository's Actions tab and run "Generate Pac-Man Contribution Graph"
+   if it does not start automatically.
+5. After a successful run, an "output" branch will be created containing the SVGs.
+6. Refresh your GitHub profile.
+
+If the workflow cannot push:
+Settings > Actions > General > Workflow permissions > Read and write permissions.
